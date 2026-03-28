@@ -1,6 +1,7 @@
 ﻿# Virtual Paging Algorithm Simulation
 
 **OPSYSFUN — Operating Systems Fundamentals | Final Project**
+
 Holy Angel University — School of Computing
 ## Group Members
 - Cabutihan, Shawn Uriel S.
@@ -20,15 +21,14 @@ Holy Angel University — School of Computing
 
 ## Requirements
 - Python 3.9+
-- 
-ich library
+- rich library
 
-`ash
+`Bash
 pip install rich
 `
 
 ## How to Run
-`ash
+`Bash
 python main.py
 `
 
