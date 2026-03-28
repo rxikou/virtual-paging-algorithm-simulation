@@ -1,8 +1,7 @@
 ﻿# Virtual Paging Algorithm Simulation
 
 **OPSYSFUN — Operating Systems Fundamentals | Final Project**
-Holy Angel University — College of Computer Studies
-
+Holy Angel University — School of Computing
 ## Group Members
 - Cabutihan, Shawn Uriel S.
 - Centeno, Laurenzo S.
@@ -21,7 +20,8 @@ Holy Angel University — College of Computer Studies
 
 ## Requirements
 - Python 3.9+
-- ich library
+- 
+ich library
 
 `ash
 pip install rich
@@ -59,3 +59,9 @@ Final_Project/
 - Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley.
 - Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson.
 - Bélády, L. A. (1966). A study of replacement algorithms for a virtual-storage computer. *IBM Systems Journal, 5*(2), 78–101. https://doi.org/10.1147/sj.52.0078
+- GeeksforGeeks. (2024, November 19). *Program for FIFO page replacement algorithm*. https://www.geeksforgeeks.org/dsa/program-page-replacement-algorithms-set-2-fifo/
+- GeeksforGeeks. (2024, November 19). *Program for Least Recently Used (LRU) page replacement algorithm*. https://www.geeksforgeeks.org/dsa/program-for-least-recently-used-lru-page-replacement-algorithm/
+- GeeksforGeeks. (2024, November 19). *Page replacement algorithms in operating systems*. https://www.geeksforgeeks.org/operating-systems/page-replacement-algorithms-in-operating-systems/
+- GeeksforGeeks. (2024, November 19). *Optimal page replacement algorithm*. https://www.geeksforgeeks.org/dsa/optimal-page-replacement-algorithm/
+- GeeksforGeeks. (2024, November 19). *Second chance (clock) page replacement policy*. https://www.geeksforgeeks.org/operating-systems/second-chance-or-clock-page-replacement-policy/
+- GeeksforGeeks. (2024, November 19). *Most Recently Used (MRU) page replacement algorithm*. https://www.geeksforgeeks.org/dsa/most-recently-used-mru-page-replacement-algorithm/
